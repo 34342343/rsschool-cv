@@ -1,2 +1,2 @@
-# Vadim 
-## gmail: vzeldak07@gmail.com
+# Vadim Zheldak
+## gmail: vzeldak07@gmail.com 
