@@ -1,3 +1,3 @@
 # rsschool-cv
-## https://34342343.github.io/rsschool-cv/cv
-## https://34342343.github.io/rsschool-cv/
+## https://isstep.github.io/rsschool-cv/cv
+## https://isstep.github.io/rsschool-cv/
